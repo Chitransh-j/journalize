@@ -2,9 +2,7 @@
 
 
 <div align="center">
-
-![image](https://github.com/Chitransh-j/journalize/assets/135858715/55b74d5d-3c14-40e0-a111-dbb2388e78b5)
-
+ <img src="https://github.com/Chitransh-j/journalize/assets/135858715/89012b0b-7f42-449c-b562-03f49419cb00" style="width: 700px; height: auto; margin-top: 10px;">
 </div>
 
 <div align="center">
@@ -41,8 +39,10 @@ Journalize simplifies the process of journaling, providing a secure and intuitiv
 
 Download the latest release from the [Releases Page](https://github.com/Chitransh-j/Journalize/releases) and follow the installation instructions for your operating system:
 
-- Windows
-  - Download and run the setup. Your computer might identify it as a virus. I assure you that this is not. After Setup is complete. Run `Journalize.exe`as admin.
+- **Windows**
+  - Download and run the app. The initial splash screen is just the load screen not a bug. It's just the 🐿️.
+   <p align="center" >  <img src="https://github.com/Chitransh-j/journalize/assets/135858715/5422d0a2-fa56-4b1d-9ff4-9a6a1449d97f" style="width: 400px; height: auto; margin-top: 10px;"></p>
+
 
 ## :v: Usage
 
@@ -51,7 +51,7 @@ Download the latest release from the [Releases Page](https://github.com/Chitrans
 3. Write your journal entry.
 4. Your entry is automatically saved locally.
 5. Enjoy the peace of mind knowing your thoughts are securely stored.
-6. The files are stored in the location ```C:\Program Files(x86)\Journalize\resources\app\notes```
+6. The files are stored in the location ```C:\Users\YourName\AppData\Roaming```
 
 ## :gear: Developer Installation
 
@@ -74,4 +74,5 @@ Contributions are welcome 😃.
 
 - Concept and bootstrap by myself. You can find me on LinkedIn at <a href='https://www.linkedin.com/in/chitransh-jawere/'>Chitransh Jawere</a>.
 - README concept inspired by <a href='https://github.com/GameGodS3/DropPoint/'>Drop Point</a>.
+- Parallax idea inspired by <a href='https://www.youtube.com/watch?v=2yBk1giIfqE '>CodeArry</a>.
 
