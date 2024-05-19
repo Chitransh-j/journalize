@@ -2,3 +2,4 @@ node_modules
 notes
 notesapp
 package-lock.json
+out/
